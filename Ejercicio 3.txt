@@ -1,0 +1,128 @@
+Enunciados y preposiciones logicas - Sujeto: Los gatos
+
+
+
+
+Enunciados verdaderos:
+
+Se bañan solos
+Duermen mas de 10 horas al dia
+Son de distintos colores
+Tienen cuatro patas
+Tienen bigotes grandes
+Sus garras son filosas
+Son agiles
+Su orina tiene mal olor
+
+
+
+
+Enunciados falsos:
+
+Se llevan bien con los perros
+No le tienen miedo a nada
+Su orina huele bien
+No duermen
+Comen poco
+Solo son de un color
+Tienen dos narices
+Les gusta el agua
+
+
+
+
+Nuevos Enunciados 
+
+1. Los gatos no tienen cuatro patas
+
+Negacion
+Falso
+
+2. Los gatos se bañan solos y no les gusta el agua
+
+Conjuncion
+Verdadero
+
+3. Los gatos tienen bigotes grandes o solo son de un color
+
+Disyuncion
+Verdadero
+
+4. Los gatos no son agiles
+
+Negacion
+Falso
+
+5. Los gatos no tienen garras filosas
+
+Negacion
+Falso
+
+6. Los gatos son de distintos colores y tienen dos narices
+
+Conjuncion
+Falso
+
+7. Los gatos no duermen o duermen mas de 10 horas al dia
+
+Disyuncion
+Verdadero
+
+8. Los gatos son de distintos colores y tienen cuatro patas
+
+Conjuncion
+Verdadero
+
+9. Los gatos orinan con un mal olor o su orina huele bien
+
+Disyuncion
+Verdadero
+
+10. Los gatos no tienen bigotes grandes
+
+Negacion
+Falso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
